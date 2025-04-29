@@ -3,7 +3,7 @@
 Open to work & Collab with mates & Organizations.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3579E3&center=true&vCenter=true&width=435&lines=Frontend+Web+Developer;Learning+React.js+%7C+Next.js+Enthusiast;CSS+Art+%7C+UI%2FUX+Lover;Building+Interactive+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3579E3&center=true&vCenter=true&width=505&lines=Frontend+Web+Developer;Learning+React.js+%7C+Next.js+Enthusiast;CSS+Art+%7C+UI%2FUX+Lover;Building+Interactive+Web+Apps" alt="Typing SVG" />
 </p>
 
 ---
